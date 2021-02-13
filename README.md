@@ -5,4 +5,4 @@
 [Ir al portafolio]
 (https://msantos-23.github.io/portafolio/)
 
-![Thumbnail](imgs/captura)
+![Thumbnail](imgs/captura.png)
